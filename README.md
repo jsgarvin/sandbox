@@ -1,7 +1,7 @@
 Sandbox
 =======
 
-A place to experiment and play.
+A place to experiment and play with stuff.
 
 Subheading
 ----------
